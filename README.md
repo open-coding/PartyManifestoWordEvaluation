@@ -16,7 +16,7 @@ Die Top 3 der häufigsten Wörter wird ausgegeben.
 ## Benutzung
 Das Skript kann in der PowerShell aufgerufen werden und als Parameter können die Dateien angegeben werden, welche untersucht werden sollen:
 
-   .\WordEvaluation.ps1 .\somefile.txt .\anotherfile.txt
+    .\WordEvaluation.ps1 .\somefile.txt .\anotherfile.txt
 
 bzw.
 
