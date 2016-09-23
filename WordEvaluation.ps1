@@ -1,12 +1,21 @@
 ﻿
 
 function Get-CapitalWordGroupsWithWordsMinimum4Chars {
-
+    <# 
+      .SYNOPSIS 
+      Counts all words within a wordgroup from a textfile
+      .DESCRIPTION 
+      Reads a textfile and analyses the words within, groups them to their common base word and counts all words per group within the textfile
+      .EXAMPLE 
+      Get-CapitalWordGroupsWithWordsMinimum4Chars -File .\sometext.txt 
+      .PARAMETER File 
+      Path to a text file (UTF-8 encoded) as a string
+      #>
     [CmdletBinding()]
         param( 
             [parameter(Mandatory=$true,ValueFromPipeline=$true, Position=0)]
             [ValidateScript({  if(Test-Path $_) { $true } else { throw "$_ is no file or doesn't exist" }})]
-            [string]$file
+            [string]$File
     )
 
     BEGIN {
@@ -15,7 +24,7 @@ function Get-CapitalWordGroupsWithWordsMinimum4Chars {
     }
     
     PROCESS {
-                $file | % {
+                $File | % {
                     $currentfile = $_
                     [string[]]$allwords = gc $currentfile -Encoding UTF8 | % {
                         #filter out every word that does not start with a capital letter and continues with a minimum of 3 small letters
