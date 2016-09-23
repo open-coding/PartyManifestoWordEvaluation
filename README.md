@@ -1,11 +1,11 @@
 # PartyManifestoWordEvaluation
 A simple word evaluation for a textfile (used to analyse german party manifestos)
+Eine einfache Wörter Auswertung für Textdateien (benutzt um Grundsatzprogramme deutscher Parteien zu analysieren)
 
 ## Idee
 Die Idee hinter dem Skript und der Auswertung ist, dass wahrscheinlich ein Autor eines Textes für ihn als wichtig erachtete Aspekte häufiger beschreibt und somit auch bestimmte Wörter häufiger verwendet.
 
 ## Beschreibung
-Eine einfache Wörter Auswertung für Textdateien (benutzt um Grundsatzprogramme deutscher Parteien zu analysieren)
 Das PowerShell-Skript identifiziert alle Wörter mit Großbuchstaben und nachfolgend mindestens 3 Buchstaben. 
 Diese werden in Wortgruppen aufgeteilt, indem geschaut wird, welches Wort in anderen enthalten ist. 
 Beispielsweise ist in den Wörtern 'Menschen', 'Menschheit' and 'Menschlichkeit' überall das Wort 'Mensch' enthalten, sodass daraus eine Wortgruppe gebildet wird.
