@@ -1,5 +1,5 @@
 # PartyManifestoWordEvaluation
-A simple word evaluation for a textfile (used to analyse german party manifestos)
+A simple word evaluation for a textfile (used to analyse german party manifestos).
 Eine einfache Wörter Auswertung für Textdateien (benutzt um Grundsatzprogramme deutscher Parteien zu analysieren)
 
 ## Idee
@@ -24,7 +24,7 @@ bzw.
 
 ## Aussicht
 Derzeit arbeitet das Skript noch auf Basis von regulären Ausdrücken und einer Ausschlussliste. 
-Das ursprüngliche Ziel war es Substantive innerhalb eines Textes inkl. Worstamm zu identifizieren und diese zu zählen. Es bedarf jedoch eines Online-Wörterbuchs um einzelne Wörter zu prüfen. 
+Das ursprüngliche Ziel war es Substantive innerhalb eines Textes inkl. Wortstamm zu identifizieren und diese zu zählen. Es bedarf jedoch eines Online-Wörterbuchs um einzelne Wörter zu prüfen. 
 In Zukunft könnte man das Skript an solch ein Online-Wörterbuch anbinden. 
 
 * THE *.TXT, *.PDF OR *.DOC files in this repository are not under MIT LICENSE ! *
