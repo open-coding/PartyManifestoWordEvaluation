@@ -27,5 +27,6 @@ Derzeit arbeitet das Skript noch auf Basis von regulären Ausdrücken und einer 
 Das ursprüngliche Ziel war es Substantive innerhalb eines Textes inkl. Wortstamm zu identifizieren und diese zu zählen. Es bedarf jedoch eines Online-Wörterbuchs um einzelne Wörter zu prüfen. 
 In Zukunft könnte man das Skript an solch ein Online-Wörterbuch anbinden. 
 
-* THE *.TXT, *.PDF OR *.DOC files in this repository are not under MIT LICENSE ! *
-* They are the property of their respective owners (the party they belong to) *
+## Copyright Notice
+THE *.TXT, *.PDF OR *.DOC files in this repository are not under MIT LICENSE !!
+They are the property of their respective owners (the party they belong to)
