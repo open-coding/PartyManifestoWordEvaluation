@@ -39,8 +39,12 @@ Die Grundsatzprogramme der einzelnen Parteien stammen aus folgenden Quellen:
 Sie wurden ohne Inhalts- oder Stichwortverzeichnisse in UTF-8 basierte Textdateien konvertiert. Diese wurden als Analysegrundlage genommen.
 
 ## Ergebnis
+Zusammengefasst:
 ![image](https://github.com/open-coding/PartyManifestoWordEvaluation/blob/master/results/result_top3_pretty.png)
+
+PowerShell - Skriptausgaben:
 ![image](https://github.com/open-coding/PartyManifestoWordEvaluation/blob/master/results/result_top3_PowerShell_output.png)
+![image](https://github.com/open-coding/PartyManifestoWordEvaluation/blob/master/results/result_top3_PowerShell_output_2.png)
 
 ## Aussicht
 Derzeit arbeitet das Skript noch auf Basis von regulären Ausdrücken und einer Ausschlussliste. 
