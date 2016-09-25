@@ -36,6 +36,8 @@ Die Grundsatzprogramme der einzelnen Parteien stammen aus folgenden Quellen:
  * [NPD - https://npd.de/Parteiprogramm_NPD.pdf](https://npd.de/Parteiprogramm_NPD.pdf)
  * [SPD - https://www.spd.de/fileadmin/Dokumente/Beschluesse/Grundsatzprogramme/hamburger_programm.pdf](https://www.spd.de/fileadmin/Dokumente/Beschluesse/Grundsatzprogramme/hamburger_programm.pdf)
 
+Abrufdatum: 23.09.2016-25.09.2016
+
 Sie wurden ohne Inhalts- oder Stichwortverzeichnisse in UTF-8 basierte Textdateien konvertiert. Diese wurden als Analysegrundlage genommen.
 
 ## Ergebnis
