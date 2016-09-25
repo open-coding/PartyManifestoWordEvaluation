@@ -39,18 +39,20 @@ Die Grundsatzprogramme der einzelnen Parteien stammen aus folgenden Quellen:
 Sie wurden ohne Inhalts- oder Stichwortverzeichnisse in UTF-8 basierte Textdateien konvertiert. Diese wurden als Analysegrundlage genommen.
 
 ## Ergebnis
-Zusammengefasst:
+###Zusammenfassung
 ![image](https://github.com/open-coding/PartyManifestoWordEvaluation/blob/master/results/result_top3_pretty.png)
 
-PowerShell - Skriptausgaben:
+###PowerShell - Skriptausgaben
 ![image](https://github.com/open-coding/PartyManifestoWordEvaluation/blob/master/results/result_top3_PowerShell_output.png)
 ![image](https://github.com/open-coding/PartyManifestoWordEvaluation/blob/master/results/result_top3_PowerShell_output_2.png)
+
 
 ## Aussicht
 Derzeit arbeitet das Skript noch auf Basis von regulären Ausdrücken und einer Ausschlussliste. 
 Das ursprüngliche Ziel war es Substantive innerhalb eines Textes inkl. Wortstamm zu identifizieren und diese zu zählen. Es bedarf jedoch eines Online-Wörterbuchs um einzelne Wörter zu prüfen. 
 In Zukunft könnte man das Skript an solch ein Online-Wörterbuch anbinden. 
- 
+
+
 ## Copyright Notice
 THE *.TXT, *.PDF OR *.DOC files in this repository are not under MIT LICENSE !!
 They are the property of their respective owners (the party they belong to)
