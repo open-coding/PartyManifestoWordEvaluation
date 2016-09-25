@@ -79,11 +79,13 @@ function Get-CapitalWordGroupsWithWordsMinimum4Chars {
     }
 }
 
+$top = 3
+
 if($args.Count -gt 0){
     $args |  %  { 
-                    "`r`nTop 3 - grouped capital letter words with minimum 4 chars of file '$_'";
+                    "`r`nTop $top - grouped capital letter words with minimum 4 chars of file '$_'";
                     $wordGroupsCount = (Get-CapitalWordGroupsWithWordsMinimum4Chars "$_");
-                    $wordGroupsCount | sort TotalCount -Descending | select -First 3 | ft CommonWord, SimilarWords, TotalCount
+                    $wordGroupsCount | sort TotalCount -Descending | select -First $top | ft CommonWord, SimilarWords, TotalCount
                     ""
                 }
 } else {

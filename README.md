@@ -32,6 +32,8 @@ Die Grundsatzprogramme der einzelnen Parteien stammen aus folgenden Quellen:
  * [Bündnis90/Die Grünen - https://www.gruene.de/fileadmin/user_upload/Dokumente/Grundsatzprogramm/2002_-_Grundsatzprogramm.pdf](https://www.gruene.de/fileadmin/user_upload/Dokumente/Grundsatzprogramm/2002_-_Grundsatzprogramm.pdf)
  * [CDU - https://www.cdu.de/system/tdf/media/dokumente/071203-beschluss-grundsatzprogramm-6-navigierbar_1.pdf?file=1&type=field_collection_item&id=1918](https://www.cdu.de/system/tdf/media/dokumente/071203-beschluss-grundsatzprogramm-6-navigierbar_1.pdf?file=1&type=field_collection_item&id=1918)
  * [Die Linke - https://www.die-linke.de/fileadmin/download/dokumente/programm_der_partei_die_linke_erfurt2011.doc](https://www.die-linke.de/fileadmin/download/dokumente/programm_der_partei_die_linke_erfurt2011.doc)
+ * [FDP - https://www.fdp.de/sites/default/files/uploads/2016/01/28/karlsruherfreiheitsthesen.pdf](https://www.fdp.de/sites/default/files/uploads/2016/01/28/karlsruherfreiheitsthesen.pdf)
+ * [NPD - https://npd.de/Parteiprogramm_NPD.pdf](https://npd.de/Parteiprogramm_NPD.pdf)
  * [SPD - https://www.spd.de/fileadmin/Dokumente/Beschluesse/Grundsatzprogramme/hamburger_programm.pdf](https://www.spd.de/fileadmin/Dokumente/Beschluesse/Grundsatzprogramme/hamburger_programm.pdf)
 
 Sie wurden ohne Inhalts- oder Stichwortverzeichnisse in UTF-8 basierte Textdateien konvertiert. Diese wurden als Analysegrundlage genommen.
