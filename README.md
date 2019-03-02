@@ -41,10 +41,10 @@ Abrufdatum: 23.09.2016-25.09.2016
 Sie wurden ohne Inhalts- oder Stichwortverzeichnisse in UTF-8 basierte Textdateien konvertiert. Diese wurden als Analysegrundlage genommen.
 
 ## Ergebnis
-###Zusammenfassung
+### Zusammenfassung
 ![image](https://github.com/open-coding/PartyManifestoWordEvaluation/blob/master/results/result_top3_pretty.png)
 
-###PowerShell - Skriptausgaben
+### PowerShell - Skriptausgaben
 ![image](https://github.com/open-coding/PartyManifestoWordEvaluation/blob/master/results/result_top3_PowerShell_output.png)
 ![image](https://github.com/open-coding/PartyManifestoWordEvaluation/blob/master/results/result_top3_PowerShell_output_2.png)
 
